@@ -11,5 +11,5 @@ This is a Flask application designed to manage tasks like user authentication, C
 - Protected Routes to secure sensitive resources
 
 **Technologies Used**
-  *Backend: Flask, Python
-  *Database: PostgreSQL
+ * Backend: Flask, Python
+ * Database: PostgreSQL
